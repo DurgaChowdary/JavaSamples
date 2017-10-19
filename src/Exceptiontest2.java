@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// To run the code till there's no exception
 public class Exceptiontest2 {
 	public static void Main(String args[])
 	{
